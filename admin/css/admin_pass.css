@@ -1,0 +1,40 @@
+.main_right_pass{
+	width:90%;
+	height:auto;
+	margin:0 auto;
+	padding-top:30px;
+}
+
+.table1{
+	background-color: #C5D7ED;
+	color: #0D5C99;
+	font-size:12px;
+}
+
+.td1{
+	background-color: #FFFFFF;
+	line-height:25px;
+    padding:0 10px 0 10px;
+}
+
+.td2{
+	background-color: #E6ECFA;
+	line-height:25px;
+    padding:0 10px 0 10px;
+}
+
+.tabletitle{
+	font-size: 14px;
+    font-weight: bold;
+    background-color: #FFFFFF;
+    line-height: 35px;
+    padding:0 10px 0 10px;
+}
+
+.textbox{
+	border: 1px solid #337EC1;
+    font-size: 12px;
+    width: 300px;
+    height:20px;
+    line-height:20px;
+}

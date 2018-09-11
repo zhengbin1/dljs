@@ -1,0 +1,67 @@
+.qslider{
+	width:1000px;
+	height:500px;
+	margin-left:auto;
+	margin-right:auto;
+	position:relative;
+}
+
+.qslider_image1{
+	padding:0;
+	margin:0;
+	width:1000px;
+	height:500px;
+	background-image:url(../images2/monkey1.jpg);
+	background-repeat:no-repeat;
+	display:none;
+}
+
+.qslider_image2{
+	padding:0;
+	margin:0;
+	width:1000px;
+	height:500px;
+	background-image:url(../images2/monkey2.jpg);
+	background-repeat:no-repeat;
+	display:none;
+}
+
+.qslider_image3{
+	padding:0;
+	margin:0;
+	width:1000px;
+	height:500px;
+	background-image:url(../images2/monkey3.jpg);
+	background-repeat:no-repeat;
+	display:none;
+}
+
+.qslider_image4{
+	padding:0;
+	margin:0;
+	width:1000px;
+	height:500px;
+	background-image:url(../images2/monkey4.jpg);
+	background-repeat:no-repeat;
+	display:none;
+}
+
+.qslider_image5{
+	padding:0;
+	margin:0;
+	width:1000px;
+	height:500px;
+	background-image:url(../images2/monkey5.jpg);
+	background-repeat:no-repeat;
+	display:none;
+}
+
+.qslider_image6{
+	padding:0;
+	margin:0;
+	width:1000px;
+	height:500px;
+	background-image:url(../images2/monkey6.jpg);
+	background-repeat:no-repeat;
+	display:none;
+}

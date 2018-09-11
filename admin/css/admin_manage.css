@@ -1,0 +1,22 @@
+a {
+	color: #0D5C99;
+	text-decoration: none;
+}
+
+.tabletitle {
+    background-color: #E6ECFA;
+    font-weight: bold;
+    padding: 5px;
+    line-height:20px;
+    text-align: center;
+    color: #0D5C99;
+    font-size: 12px;
+}
+
+.tablecontent{
+	background-color: #F2F3F5;
+    line-height: 20px;
+    padding: 5px;
+    color: #0D5C99;
+    font-size: 12px;
+}

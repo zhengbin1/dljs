@@ -1,0 +1,30 @@
+.main_right_content{
+	width:90%;
+	height:auto;
+	margin:0 auto;
+	padding-top:30px;
+}
+
+.table1{
+	background-color: #C5D7ED;
+	color: #0D5C99;
+	font-size:12px;
+}
+
+.table2{
+	width:100%;
+	text-align:center;
+}
+
+.td1{
+	width:50%;
+	background-color: #FFFFFF;
+	line-height:35px;
+    padding:0 10px 0 10px;
+}
+
+.td2{
+	background-color: #E6ECFA;
+	line-height:35px;
+    padding:0 10px 0 10px;
+}

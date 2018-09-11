@@ -1,0 +1,22 @@
+.left_col1{
+	width:200px;
+	height:auto;
+	margin-top:20px;
+	margin-left:auto;
+	margin-right:auto;
+	padding:10px 0 10px 0;
+	background-color:#CCC;
+}
+
+.left_col2{
+	width:200px;
+	height:auto;
+	margin:0 auto;
+	padding:10px 0 10px 0;
+	background-color:#CCC;
+}
+
+.left_col1 > ul, 
+.left_col2 > ul{
+	list-style-type:circle;
+}
